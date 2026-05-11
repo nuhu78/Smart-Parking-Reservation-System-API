@@ -1,5 +1,26 @@
 # 🚗 Smart Parking Reservation System API (SPR Backend)
 
+# Project Relocated Notice
+
+⚠️ This project repository is no longer actively maintained here.
+
+The development of this project has been moved to a new repository for better structure, updated features, and ongoing improvements.
+
+## New Active Repository:
+👉 [New Repository Link Here](https://github.com/nuhu78/Smart-Parking-Reservation-System.git)
+
+## Why moved?
+- Better project architecture
+- Cleaner codebase
+- Updated documentation
+- New features and maintenance
+
+## Note for Recruiters / Reviewers
+This repository remains available because it was previously shared in my CV/portfolio.
+Please visit the new repository for the latest version and active development.
+
+Thank you!
+
 ## 📌 Project Overview
 
 This is a **RESTful backend API** for a Smart Parking Reservation System built with **NestJS + TypeScript**.
